@@ -9,6 +9,8 @@ frontend:
       commands:
         - npm run build
         - ls -al .amplify-hosting
+        - ls -al .amplify-hosting/compute
+        - ls -al .amplify-hosting/compute/default
   artifacts:
     baseDirectory: .amplify-hosting
     files:
