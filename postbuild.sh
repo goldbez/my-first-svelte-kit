@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BUILD_OUTPUT_DIR=".amplify-hosting"
-COMPUTE_OUTPUT_DIR=${BUILD_OUTPUT_DIR}/compute
+COMPUTE_OUTPUT_DIR=${BUILD_OUTPUT_DIR}/compute/default
 STATIC_OUTPUT_DIR=${BUILD_OUTPUT_DIR}/static
 
 rm -rf ./${BUILD_OUTPUT_DIR}
