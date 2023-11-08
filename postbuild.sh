@@ -9,5 +9,8 @@ mkdir -p ./${COMPUTE_OUTPUT_DIR}
 mkdir -p ./${STATIC_OUTPUT_DIR}
 
 cp -r build/* ./${COMPUTE_OUTPUT_DIR}/
+cp package.json ./${COMPUTE_OUTPUT_DIR}/
+cp svelte.config.js ./${COMPUTE_OUTPUT_DIR}/
+
 cp -r build/client/* ./${STATIC_OUTPUT_DIR}/
 cp ./deploy-manifest.json ./$BUILD_OUTPUT_DIR/
