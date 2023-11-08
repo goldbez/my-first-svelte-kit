@@ -3,6 +3,13 @@
   "framework": { "name": "sveltekit", "version": "4.0.5" },
   "routes": [
     {
+      "path": "/_app/immutable/*",
+      "target": {
+        "kind": "Static",
+        "cacheControl": "public, s-max-age=31536000, max-age=31536000, immutable"
+      }
+    },
+    {
       "path": "/*",
       "target": {
         "kind": "Compute",
