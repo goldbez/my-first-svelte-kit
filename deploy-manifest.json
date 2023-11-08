@@ -10,14 +10,21 @@
       }
     },
     {
+      "path": "/*.*",
+      "target": {
+        "kind": "Static",
+        "cacheControl": "public, s-max-age=5, max-age=5"
+      },
+      "fallback": {
+        "kind": "Compute",
+        "src": "default"
+      }
+    },
+    {
       "path": "/*",
       "target": {
         "kind": "Compute",
         "src": "default"
-      },
-      "fallback": {
-        "kind": "Static",
-        "cacheControl": "public, max-age=0"
       }
     }
   ],
