@@ -28,175 +28,176 @@
       }
     },
     {
-      "path": "/*",
+    {
+      "path": "/0",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/1",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/2",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/3",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/4",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/5",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/6",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/7",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/8",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/9",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/10",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/11",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/12",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/13",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/14",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/15",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/16",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/17",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/18",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/19",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/20",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/21",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/22",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/23",
       "target": {
         "kind": "Compute",
         "src": "default"
       }
     },
     {
-      "path": "/*",
+      "path": "/24",
       "target": {
         "kind": "Compute",
         "src": "default"
